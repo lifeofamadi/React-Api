@@ -1,0 +1,17 @@
+.button{
+  
+  padding: 50px;
+  font-size: 80px;
+  text-align: center;
+  justify-content: center;
+  
+}
+
+.male{
+  margin-right: 4px;
+  
+}
+
+.female{
+  margin-left: 90px;
+}
